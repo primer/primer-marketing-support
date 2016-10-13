@@ -1,0 +1,35 @@
+{
+  "version": "0.1.0",
+  "name": "primer-marketing-support",
+  "description": "Sass variables, mixins, and functions for use in our components.",
+  "homepage": "http://primercss.io/",
+  "author": "GitHub, Inc.",
+  "license": "MIT",
+  "style": "index.scss",
+  "files": [
+    "index.scss",
+    "lib"
+  ],
+  "repository": "https://github.com/primer/primer-marketing-support.git",
+  "bugs": {
+    "url": "https://github.com/primer/primer-marketing-support/issues"
+  },
+  "scripts": {
+    "lint": "stylelint **/*.scss -c .stylelintrc.json -s scss",
+    "test": "npm run lint"
+  },
+  "devDependencies": {
+    "stylelint": "^6.6.0",
+    "stylelint-config-primer": "^1.0.0"
+  },
+  "keywords": [
+    "primer",
+    "css",
+    "github",
+    "primercss",
+    "mixins",
+    "functions",
+    "variables",
+    "scss"
+  ]
+}
