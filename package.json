@@ -15,12 +15,11 @@
     "url": "https://github.com/primer/primer-marketing-support/issues"
   },
   "scripts": {
-    "lint": "stylelint **/*.scss -c .stylelintrc.json -s scss",
-    "test": "npm run lint"
+    "test": "stylelint **/*.scss -c .stylelintrc.json -s scss"
   },
   "devDependencies": {
-    "stylelint": "^6.6.0",
-    "stylelint-config-primer": "^1.0.0"
+    "stylelint": "*",
+    "stylelint-config-primer": "*"
   },
   "keywords": [
     "primer",
