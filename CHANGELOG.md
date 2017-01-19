@@ -1,3 +1,7 @@
+# HEAD
+
+ * Cleaning up devDependencies versions and simplifying npm scripts - Jon Rohan [github/github@2c42571](https://github.com/github/github/commit/2c42571)
+
 # v0.1.1
 
 
