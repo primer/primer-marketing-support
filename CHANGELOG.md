@@ -1,5 +1,6 @@
-# HEAD
+# v0.2.0
 
+ * update version number - broccolini [github/github@b3d1822](https://github.com/github/github/commit/b3d1822)
  * Cleaning up devDependencies versions and simplifying npm scripts - Jon Rohan [github/github@2c42571](https://github.com/github/github/commit/2c42571)
 
 # v0.1.1
