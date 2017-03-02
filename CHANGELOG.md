@@ -1,5 +1,8 @@
-# HEAD
+# v0.3.0
 
+ * bump version numbers that were missed previously - broccolini [github/github@ee50553](https://github.com/github/github/commit/ee50553)
+ * add new green, update colors on business new - Sophie Shepherd [github/github@f32126a](https://github.com/github/github/commit/f32126a)
+ * update variables to have new colors - Sophie Shepherd [github/github@2ae3bd8](https://github.com/github/github/commit/2ae3bd8)
  * sneak in that sf mono life - Mark Otto [github/github@778a9e6](https://github.com/github/github/commit/778a9e6)
 
 # v0.2.0
