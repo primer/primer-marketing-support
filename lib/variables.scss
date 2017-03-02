@@ -12,28 +12,33 @@ $marketing-colors: (
     base:   #fff,
   ),
   black: (
-    base:   #3c4146,
+    base:   #24292e,
   ),
   gray: (
     base:   #e5e5e5,
     light: #f5f5f5,
     mid: #aaa,
-    dark: #767676
+    dark: #444d56
   ),
   purple: (
-    base:   #7a3497,
-    light:  #f7f1f9,
-    dark:   #591e71
+    base:   #6f42c1,
+    light:  #f5f0ff,
+    dark:   #4c2889
   ),
   orange: (
-    base:   #e8400d,
-    light:  #fdf2ec,
-    dark:   #b83606
+    base:   #f66a0a,
+    light:  #fff8f2,
+    dark:   #d15704
   ),
   blue: (
-    base:   #0079d1,
-    light:  #eef4fc,
-    dark:   #0058a2
+    base:   #006eeb,
+    light:  #f1f8ff,
+    dark:   #044289
+  ),
+  green: (
+    base:   #28a745,
+    light:  #f0fff4,
+    dark:   #22863a
   )
 );
 
@@ -50,6 +55,11 @@ $marketing-orange-light: color(orange, light);
 $marketing-blue: color(blue, base);
 $marketing-blue-dark: color(blue, dark);
 $marketing-blue-light: color(blue, light);
+
+// Greens
+$marketing-green: color(green, base);
+$marketing-green-dark: color(green, dark);
+$marketing-green-light: color(green, light);
 
 // Purps
 $marketing-purple: color(purple, base);
