@@ -1,3 +1,8 @@
+# HEAD
+
+ * delete more instances of  - Sophie Shepherd [github/github@04f84d8](https://github.com/github/github/commit/04f84d8)
+ * resolve all the other conflicts - Sophie Shepherd [github/github@d8fb169](https://github.com/github/github/commit/d8fb169)
+
 # v0.4.0
 
  * versions - Sophie Shepherd [github/github@703a904](https://github.com/github/github/commit/703a904)
